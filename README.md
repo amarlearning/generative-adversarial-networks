@@ -1,1 +1,1 @@
-# generative-adversial-network
+## Generative Adversial Network
